@@ -5,7 +5,8 @@ Good day! I am Chanuk Heo.
 If you want tocontact me, please leave me a message!
 
 ## Experience
-✅ 숭실대학교 전기공학부 Mar 2018 ~ Aug 2024
+✅ [intel] 엣지 AI S/W 아카데미 4기  / Mar 2024 ~ Sep 2024 / (https://github.com/kccistc/intel-04)
+✅ 숭실대학교 전기공학부 / Mar 2018 ~ Aug 2024
 
 
 
