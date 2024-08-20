@@ -4,6 +4,11 @@ Good day! I am Chanuk Heo.
 
 If you want tocontact me, please leave me a message!
 
+## Experience
+✅ 숭실대학교 전기공학부 Mar 2018 ~ Aug 2024
+
+
+
 <!--
 **HeoChanUk/HeoChanUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
