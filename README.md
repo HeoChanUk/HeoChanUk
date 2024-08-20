@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Good day! I am Chanuk Heo.
+
+If you want tocontact me, please leave me a message!
+
 <!--
 **HeoChanUk/HeoChanUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeoChanUk)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeoChanUk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeoChanUk&hide=contribs,prs&show_icons=true&theme=graywhite)
+-->
