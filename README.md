@@ -2,7 +2,7 @@
 
 Good day! I am Chanuk Heo. <br>
 
-If you want tocontact me, please leave me a message!
+If you want to contact me, please leave me a message!
 
 ## Experience
 
